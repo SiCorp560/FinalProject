@@ -34,30 +34,30 @@ Final Project for CMU course 53-471: Game Design, Prototyping and Production.
 
 ### Version 3, Beta Build:
 1. Improved Game Mechanics: 
-⋅⋅a. Level management system created
-⋅⋅- Level structure created, different princesses and different supplies in closet
-⋅⋅- Hazardous object must be included in bed to pass level
-⋅⋅b. Additional Princess Wake Conditions
-⋅⋅- Temperature: ice cube within certain distance of princess will hit "temperature trigger" collider
-⋅⋅- Sound: when watermelon breaks, if within certain distance of princess, will hit "sound trigger" collider
-⋅⋅c. Watermelon splits under pressure
-⋅⋅d. Minion variance: carrying different items
+a. Level management system created
+  - Level structure created, different princesses and different supplies in closet
+  - Hazardous object must be included in bed to pass level
+b. Additional Princess Wake Conditions
+  - Temperature: ice cube within certain distance of princess will hit "temperature trigger" collider
+  - Sound: when watermelon breaks, if within certain distance of princess, will hit "sound trigger" collider
+c. Watermelon splits under pressure
+d. Minion variance: carrying different items
 2. Some UI art, further object art implemented
 
 ### Version 4, Final Build:
 1. Final Game Mechanics:
-⋅⋅a. Level mananger improvement: level selection screen added
-⋅⋅b. Improved princess joint physics
-⋅⋅c. Audio implementation: background tracks and sfx added
-⋅⋅d. Cutscene implementation: intro cutscene added, along with win and lose scenes
-⋅⋅e. UI implementation:
-⋅⋅- animations for Pause Menu created
-⋅⋅- animation for clock created
-⋅⋅- title assets updated
-⋅⋅f. Core visuals improved
-⋅⋅- in-game bedframe implemented
-⋅⋅- scrolling sky changing colors implemented
-⋅⋅- minion asset added
+a. Level mananger improvement: level selection screen added
+b. Improved princess joint physics
+c. Audio implementation: background tracks and sfx added
+d. Cutscene implementation: intro cutscene added, along with win and lose scenes
+e. UI implementation:
+  - animations for Pause Menu created
+  - animation for clock created
+  - title assets updated
+f. Core visuals improved
+  - in-game bedframe implemented
+  - scrolling sky changing colors implemented
+  - minion asset added
 
 ## ATTRIBUTIONS 
 ### UI:
@@ -72,12 +72,11 @@ Final Project for CMU course 53-471: Game Design, Prototyping and Production.
 - Bridal Chorus by Wagner
 - Page rip: https://www.soundjay.com/
 - Bell noise: https://www.fesliyanstudios.com/sound-effects-search.php?q=bell
-
-### Miscellaneous sounds:
-- https://www.zapsplat.com/?s=wedding&post_type=music&sound-effect-category-id=
-- https://www.zapsplat.com/page/2/?s=snore&post_type=music&sound-effect-category-id
-- https://www.fesliyanstudios.com/sound-effects-search.php?q=yawn+woman
-- https://elements.envato.com/\
+- Other sounds:
+  - https://www.zapsplat.com/?s=wedding&post_type=music&sound-effect-category-id=
+  - https://www.zapsplat.com/page/2/?s=snore&post_type=music&sound-effect-category-id
+  - https://www.fesliyanstudios.com/sound-effects-search.php?q=yawn+woman
+  - https://elements.envato.com/\
 
 ### Game Assets:
 - Placeholders from Kenney Game Assets https://kenney.nl/assets
