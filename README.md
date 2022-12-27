@@ -16,45 +16,45 @@ Final Project for CMU course 53-471: Game Design, Prototyping and Production.
 ## RELEASE NOTES
 ### Version 1, Preliminary Build:
 1. Rough Game Mechanics:
-⋅⋅a. on-screen toolbar of objects
-⋅⋅b. click to select and place objects
-⋅⋅c. objects have gravity and bouncy/squishy physics
-⋅⋅d. progress on collision with "bed frame" and other objects
-⋅⋅e. Escape to quit game	
+- on-screen toolbar of objects
+- click to select and place objects
+- objects have gravity and bouncy/squishy physics
+- progress on collision with "bed frame" and other objects
+- Escape to quit game	
 
 ### Version 2, Alpha Build:
 1. Improved Game Mechanics:
-  a. Time limit for bed construction
-  b. Queen Interference: Crow minion comes to drop pea in bed, player can scare it away by clicking on minion
-  c. Princess Wake Conditions
-    - direct contact with non-bed object (peas, bed frame)
-    - rotation past certain threshold from laying position
-  d. Ice cube object melts during sleep
+- Time limit for bed construction
+- Queen Interference: Crow minion comes to drop pea in bed, player can scare it away by clicking on minion
+- Princess Wake Conditions
+  - direct contact with non-bed object (peas, bed frame)
+  - rotation past certain threshold from laying position
+- Ice cube object melts during sleep
 2. Background art, various object art, and princess art implemented
 
 ### Version 3, Beta Build:
 1. Improved Game Mechanics: 
-a. Level management system created
+- Level management system created
   - Level structure created, different princesses and different supplies in closet
   - Hazardous object must be included in bed to pass level
-b. Additional Princess Wake Conditions
+- Additional Princess Wake Conditions
   - Temperature: ice cube within certain distance of princess will hit "temperature trigger" collider
   - Sound: when watermelon breaks, if within certain distance of princess, will hit "sound trigger" collider
-c. Watermelon splits under pressure
-d. Minion variance: carrying different items
+- Watermelon splits under pressure
+- Minion variance: carrying different items
 2. Some UI art, further object art implemented
 
 ### Version 4, Final Build:
 1. Final Game Mechanics:
-a. Level mananger improvement: level selection screen added
-b. Improved princess joint physics
-c. Audio implementation: background tracks and sfx added
-d. Cutscene implementation: intro cutscene added, along with win and lose scenes
-e. UI implementation:
+- Level mananger improvement: level selection screen added
+- Improved princess joint physics
+- Audio implementation: background tracks and sfx added
+- Cutscene implementation: intro cutscene added, along with win and lose scenes
+- UI implementation:
   - animations for Pause Menu created
   - animation for clock created
   - title assets updated
-f. Core visuals improved
+- Core visuals improved
   - in-game bedframe implemented
   - scrolling sky changing colors implemented
   - minion asset added
