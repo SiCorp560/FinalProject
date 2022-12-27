@@ -11,7 +11,7 @@ Final Project for CMU course 53-471: Game Design, Prototyping and Production.
 - [Haley Carter](https://github.com/hcarter20): Programming, Production
 
 ## RUN DIRECTIONS
-- Windows: Run the provided .exe file within the DOWNLOAD folder.
+- Windows: Run the provided **_FinalProject.exe_** file.
 
 ## RELEASE NOTES
 ### Version 1, Preliminary Build:
