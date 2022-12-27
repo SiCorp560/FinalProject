@@ -24,12 +24,12 @@ Final Project for CMU course 53-471: Game Design, Prototyping and Production.
 
 ### Version 2, Alpha Build:
 1. Improved Game Mechanics:
-⋅⋅a. Time limit for bed construction
-⋅⋅b. Queen Interference: Crow minion comes to drop pea in bed, player can scare it away by clicking on minion
-⋅⋅c. Princess Wake Conditions
-⋅⋅- direct contact with non-bed object (peas, bed frame)
-⋅⋅- rotation past certain threshold from laying position
-⋅⋅d. Ice cube object melts during sleep
+  a. Time limit for bed construction
+  b. Queen Interference: Crow minion comes to drop pea in bed, player can scare it away by clicking on minion
+  c. Princess Wake Conditions
+    - direct contact with non-bed object (peas, bed frame)
+    - rotation past certain threshold from laying position
+  d. Ice cube object melts during sleep
 2. Background art, various object art, and princess art implemented
 
 ### Version 3, Beta Build:
